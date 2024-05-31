@@ -182,7 +182,7 @@ export default function Products() {
                 and tools on platforms like{" "}
                 <a
                   className="regular-link"
-                  href="https://github.com/Night-Owl-Labs"
+                  href="https://github.com/raushang4"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -829,7 +829,7 @@ export default function Products() {
                   {" "}
                   <a
                     className="regular-link"
-                    href="https://github.com/Night-Owl-Labs/SOLID-Principles"
+                    href="https://github.com/raushang4/SOLID-Principles"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -842,7 +842,7 @@ export default function Products() {
                   more understandable, flexible, and maintainable.
                 </p>
                 <a
-                  href="https://github.com/Night-Owl-Labs/SOLID-Principles"
+                  href="https://github.com/raushang4/SOLID-Principles"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -862,7 +862,7 @@ export default function Products() {
                 </p>
                 <div className="social-links">
                   <a
-                    href="https://github.com/Night-Owl-Labs/SOLID-Principles"
+                    href="https://github.com/raushang4/SOLID-Principles"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -876,7 +876,7 @@ export default function Products() {
                   {" "}
                   <a
                     className="regular-link"
-                    href="https://github.com/Night-Owl-Labs/OOP-Principles"
+                    href="https://github.com/ericrangels/OOP"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -890,7 +890,7 @@ export default function Products() {
                   repository has you covered.
                 </p>
                 <a
-                  href="https://github.com/Night-Owl-Labs/OOP-Principles"
+                  href="https://github.com/ericrangels/OOP"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -910,7 +910,7 @@ export default function Products() {
                 </p>
                 <div className="social-links">
                   <a
-                    href="https://github.com/Night-Owl-Labs/OOP-Principles"
+                    href="https://github.com/OOP"
                     target="_blank"
                     rel="noreferrer"
                   >

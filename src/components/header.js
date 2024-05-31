@@ -17,7 +17,7 @@ const Header = () => {
               className="desktop-logo"
             />
             <img
-              src="/images/company/nol-banner_small.png"
+              src="/images/company/nol-banner_large.png"
               alt="Night Owl Labs"
               title="Night Owl Labs"
               className="mobile-logo"

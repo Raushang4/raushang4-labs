@@ -45,7 +45,7 @@ export default function About() {
             <h2>Raushan kumar</h2>
           </a>
           <p>
-            Founder of <b>raushang4</b>, Scott brings over a decade of
+            Founder of <b>raushang4</b>,  brings over a decade of
             professional Software Engineering, Architecture, and Design
             experience to the team. He has worked with a wide range of
             technologies in multiple industries, and is passionate about
@@ -68,10 +68,10 @@ export default function About() {
             >
               <i className="fa-regular fa-envelope"></i>
             </a>
-            <a href="https://scottgrivner.dev" target="_blank" rel="noreferrer">
+            <a href="https://raushang4.me" target="_blank" rel="noreferrer">
               <i className="fa-solid fa-arrow-up-right-from-square"></i>
             </a>
-            <a href="https://prgportfolio.com" target="_blank" rel="noreferrer">
+            <a href="https://raushang4.me" target="_blank" rel="noreferrer">
               <Icon name="PRG" />
             </a>
             <a
@@ -82,21 +82,21 @@ export default function About() {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://stackoverflow.com/u/"
+              href="https://stackoverflow.com/u/raushang4"
               target="_blank"
               rel="noreferrer"
             >
               <i className="fab fa-stack-overflow"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/"
+              href="https://www.linkedin.com/in/raushang4"
               target="_blank"
               rel="noreferrer"
             >
               <i className="fab fa-linkedin"></i>
             </a>
             <a
-              href="https://codepen.io/"
+              href="https://codepen.io/raushang4"
               target="_blank"
               rel="noreferrer"
             >
@@ -106,7 +106,7 @@ export default function About() {
               <Icon name="Goodreads" />
             </a>
             <a
-              href="https://medium.com/raushang4"
+              href="https://medium.com/@raushang4"
               target="_blank"
               rel="noreferrer"
             >
@@ -134,14 +134,14 @@ export default function About() {
               <Icon name="BMC" />
             </a>
             <a
-              href="https://github.com/sponsors/scottgriv"
+              href="https://github.com/sponsors/raushang4"
               target="_blank"
               rel="noreferrer"
             >
               <i class="fa-solid fa-heart"></i>
             </a>
             <a
-              href="https://fishbrain.com/anglers/scottgriv"
+              href="https://fishbrain.com/anglers/raushang4"
               target="_blank"
               rel="noreferrer"
             >
@@ -154,7 +154,7 @@ export default function About() {
       <div className="about-container-flipped" id="anya-druzhenko">
         <div className="photo-container">
           <a
-            href="https://www.linkedin.com/in/"
+            href="https://www.linkedin.com/in/raushang4"
             target="_blank"
             rel="noreferrer"
           >
@@ -169,7 +169,7 @@ export default function About() {
         <div className="description-container">
           <a
             className="regular-link"
-            href="https://www.linkedin.com/in/anya-druzhenko-56985a180"
+            href="https://www.linkedin.com/in/anya-druzhenko-56985a18"
             target="_blank"
             rel="noreferrer"
           >
@@ -193,7 +193,7 @@ export default function About() {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/anya-druzhenko-56985a180"
+              href="https://www.linkedin.com/in/anya-druzhenko"
               target="_blank"
               rel="noreferrer"
             >
