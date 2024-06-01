@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-[![App logo](docs/images/banner_large.png)](https://nightowllabs.io)
+[![App logo](docs/images/banner_large.png)](https://raushang4.tech)
 
 <p align="center">
     <a href="https://www.gatsbyjs.com/"><img src="https://img.shields.io/badge/Gatsby-5.12.4-663399?style=for-the-badge&logo=gatsby" alt="Gatsby Badge" /></a>
@@ -8,8 +8,8 @@
     <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-17.7.0-00C7B7?style=for-the-badge&logo=netlify" alt="Netlify Badge" /></a>
     <br>
     <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
-    <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
-    <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FFDD00?style=for-the-badge&logo=buymeacoffee&color=FFDD00" alt="BuyMeACoffee Badge" /></a>
+    <a href="mailto:raushang4@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+    <a href="https://www.buymeacoffee.com/raushang4"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FFDD00?style=for-the-badge&logo=buymeacoffee&color=FFDD00" alt="BuyMeACoffee Badge" /></a>
     <br>
     <a href="https://prgportfolio.com"><img src="https://img.shields.io/badge/PRG-Gold Project-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkQ3MDAiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="Gold" /></a>
 </p>
@@ -23,10 +23,10 @@
 </p>
 
 A dynamic and versatile static business website, expertly crafted using Gatsby for optimal performance and hosted on Netlify for reliability. This website comes with a multitude of menu options and features, catering to diverse business needs. Additionally, it includes a dedicated section for a product or app landing page, perfect for showcasing new releases, features, and driving user engagement.
-- Visit the application to see it in action [here](https://nightowllabs.io).
+- Visit the application to see it in action [here](https://raushang4.tech).
 
 <div align="center">
-    <a href="https://nightowllabs.io" target="_blank">
+    <a href="https://raushang4.tech" target="_blank">
         <img src="./docs/images/demo_1.png" style="width: 60%;"/>
     </a>
     <br>
@@ -248,7 +248,7 @@ I'm looking forward to seeing how this project evolves over time and how it can 
 
 ## Project
 
-Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/10) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
+Please reference the [GitHub Project](https://github.com/users/raushang4/projects/10) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
 
 - Issues and Enhancements will also be tracked there as well.
 
@@ -257,13 +257,13 @@ Please reference the [GitHub Project](https://github.com/users/scottgriv/project
 If you fork this project, please adhere to the following guidelines:
 
 - **Rename the Products**: Please change any references to [Your Product Name] to a name of your choosing that does not include the projects referenced on this website.
-- **Change Company Information**: If your fork includes references to [Your Company Name], please replace these with your own information or generic placeholders. Do not reference "Night Owl Labs, LLC."
-- **Change the Copyright Information**: Be sure to change the copyright reference to "Night Owl Labs, LLC." in the `footer.js` file.
-- **Change Designs and Logos**: Be sure to change the logos and designs that originally referenced Night Owl Labs.
+- **Change Company Information**: If your fork includes references to [Your Company Name], please replace these with your own information or generic placeholders. Do not reference "raushang4 Labs, LLC."
+- **Change the Copyright Information**: Be sure to change the copyright reference to "raushang4 Labs, LLC." in the `footer.js` file.
+- **Change Designs and Logos**: Be sure to change the logos and designs that originally referenced raushang4 Labs.
 - **Change Site Metadata**: Change the website meta data in the `siteMetadata` tree located in the `seo.js` file to fit your company or product.
-- **Change Contact Information**: Change any contact email references to `@nightowllabs.io` or hyperlinks to Night Owl Labs.
-- **Utilize Search in your IDE**: Do a mass search for "Night Owl Labs" and its products to ensure you have removed any references.
-- **Compare Your Website with the Original**: The site is actively being hosted at [nightowllabs.io](https://nightowllabs.io). After you deploy your website, check it against the original website to ensure nothing looks similar. Your site should be structured the same but be almost completely different content wise.
+- **Change Contact Information**: Change any contact email references to `@raushang4.tech` or hyperlinks to raushang4 Labs.
+- **Utilize Search in your IDE**: Do a mass search for "raushang4 Labs" and its products to ensure you have removed any references.
+- **Compare Your Website with the Original**: The site is actively being hosted at [raushang4.tech](https://raushang4.tech). After you deploy your website, check it against the original website to ensure nothing looks similar. Your site should be structured the same but be almost completely different content wise.
 
 This project serves as a great template for a business and/or product page, but it is important to do the work in order to update it and remove the original references to the original company/product/author.
 
@@ -301,14 +301,14 @@ This project is released under the terms of the **MIT License**, which permits u
 
 ## Credits
 
-**Author:** [Scott Grivner](https://github.com/scottgriv) <br>
-**Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
-**Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
+**Author:** [Raushan kumar](https://github.com/raushang4) <br>
+**Email:** [raushang4@gmail.com](mailto:raushang4@gmail.com) <br>
+**Website:** [raushang4.tech](https://www.raushang4.tech) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/Business-Website) <br>
 
-**Author:** [Night Owl Labs, LLC.](https://github.com/Night-Owl-Labs) <br>
-**Email:** [support@nightowllabs.io](mailto:support@nightowllabs.io) <br>
-**Website:** [nightowllabs.io](https://www.nightowllabs.io) <br>
+**Author:** [raushang4 Labs, LLC.](https://github.com/Night-Owl-Labs) <br>
+**Email:** [support@raushang4.io](mailto:raushang4@gmail.com) <br>
+**Website:** [raushang4.tech](https://www.raushang4.tech) <br>
 
 ---------------
 
@@ -318,7 +318,7 @@ This project is released under the terms of the **MIT License**, which permits u
     </a>
     <br>
     <br>
-    <a href="https://nightowllabs.io" target="_blank">
+    <a href="https://raushang4.tech" target="_blank">
         <img src="./docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>

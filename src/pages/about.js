@@ -9,8 +9,8 @@ export default function About() {
         Meet the Owls{" "}
         <img
           src="/images/company/nol-icon-transparent.png"
-          alt="Night Owl Labs"
-          title="Night Owl Labs"
+          alt="raushang4 Labs"
+          title="raushang4 Labs"
           className="company-thumbnail"
         />
       </h1>

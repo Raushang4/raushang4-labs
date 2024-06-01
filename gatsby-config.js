@@ -11,8 +11,8 @@ module.exports = {
   siteMetadata: {
     title: `Software Development, Design, Consulting, Education`,
     description: `Software Development, Design, Consulting, Education`,
-    author: `@Night_Owl_Labs`,
-    siteUrl: `https://nightowllabs.io`,
+    author: `@raushang4_labs`,
+    siteUrl: `https://raushang4.tech`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -28,8 +28,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Night Owl Labs`,
-        short_name: `Night Owl Labs`,
+        name: `raushang4 Labs`,
+        short_name: `raushang4 Labs`,
         start_url: `/`,
         background_color: `#0E2F00`,
         // This will impact how browsers show your PWA/website
